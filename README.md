@@ -5,8 +5,7 @@ Through MyopiaSim, kids can experience visual impairment and learn to take bette
 
 **[Demo Video](https://youtu.be/sHBY8pKAU_g) is on YouTube**
 
-![Untitled 1](https://user-images.githubusercontent.com/57298155/233409352-db6ad4fa-307f-43fb-b920-8f48c322c789.png)
-
+![Uploading iPad Pro 12.9_ - 9.png…]()
 
 ## Credits
 
